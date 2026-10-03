@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of jiushutech/force-password-change.** Not for installation: use [Packagist](https://packagist.org/packages/jiushutech/force-password-change) or the [upstream repository](https://github.com/jiushutech/force-password-change).
 
-**0** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/jiushutech-force-password-change/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^1.8.0`
+**2** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/jiushutech-force-password-change/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-11-23 | `^1.8.0` | [Browse](https://github.com/flarchive/jiushutech-force-password-change/tree/archive/v1.0.0) |
+| `v2.0.0` | 2025-11-23 | `^1.8.0` | [Browse](https://github.com/flarchive/jiushutech-force-password-change/tree/archive/v2.0.0) |
 
 Catalog entry: [packages/jiushutech-force-password-change.json](https://github.com/flarchive/archive-index/blob/main/packages/jiushutech-force-password-change.json)
 
